@@ -1,3 +1,4 @@
 # sudo apt-get update
 # sudo apt-get install nodejs
-node fastAssist.js
+npm install
+node speedAssist.js
